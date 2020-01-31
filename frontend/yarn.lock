@@ -3446,10 +3446,10 @@ firebase-admin@^8.9.2:
     "@google-cloud/firestore" "^3.0.0"
     "@google-cloud/storage" "^4.1.2"
 
-firebase-react-components@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/firebase-react-components/-/firebase-react-components-1.0.5.tgz#41a74918105a8922eb3428fe0fe261c394fbb5ee"
-  integrity sha512-m/0mE4K9epznL9v/TxTfL3n72EI/0rJWKOAr55gQ6ljNs0IXrpAY+0/P9zIOD4bPotqIUFoENk2ORNFeuLzrDg==
+firebase-react-components@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/firebase-react-components/-/firebase-react-components-1.0.8.tgz#9d145d9847fdf94d6c17848d36223a3f7b6b2d2e"
+  integrity sha512-k8b4R35riiEAm37NieEGCAXskhLUCjZzoTG+IcDMq8ehc4Ssr3p83AYD0Y6HN/lDXwEDgybJ/gssXlxv/HwlDQ==
   dependencies:
     "@types/js-cookie" "^2.2.4"
     js-cookie "^2.2.1"
