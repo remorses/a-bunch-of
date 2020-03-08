@@ -9,6 +9,9 @@ services:
     #         - .env
     api:
         build: api
+        env_file:
+            - example_env
+            - fodler/example_env2
         ports:
             - 8090:80
         env_file:
