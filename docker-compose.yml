@@ -14,5 +14,3 @@ services:
             - fodler/example_env2
         ports:
             - 8090:80
-        env_file:
-            - .env
