@@ -1,0 +1,3 @@
+# use this env var to specify something
+ENV_VAR_VERY_SPECIAL=
+DB_URL=mongodb://your-url/your-database
