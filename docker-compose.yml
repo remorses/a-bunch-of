@@ -1,16 +1,20 @@
 version: '3'
 
 services:
-    # frontend:
-    #     build: frontend
-    #     ports:
-    #         - 80:3000
-    #     env_file:
-    #         - .env
-    api:
-        build: api
-        env_file:
-            - example_env
-            - fodler/example_env2
-        ports:
-            - 8090:80
+  # frontend:
+  #     build: frontend
+  #     ports:
+  #         - 80:3000
+  #     env_file:
+  #         - .env
+  api:
+    build: api
+    env_file:
+      - example_env
+      - fodler/example_env2
+    ports:
+      - 8090:80
+x-containerful:
+  id: 5e6649ffd66a91001b343d56
+  name: remorses/a-bunch-of
+  region: asia_northeast1
