@@ -15,6 +15,6 @@ services:
     ports:
       - 8090:80
 x-containerful:
-  id: 5e6649ffd66a91001b343d56
+  id: 5e665f520e864f001c978f4f
   name: remorses/a-bunch-of
-  region: asia_northeast1
+  region: us_east4
