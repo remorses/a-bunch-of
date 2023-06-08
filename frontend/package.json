@@ -18,7 +18,7 @@
         "firebase-react-components": "^1.0.8",
         "graphql-request": "^1.8.2",
         "jwt-decode": "^2.2.0",
-        "next": "9.2.1",
+        "next": "9.3.2",
         "next-cookies": "^2.0.3",
         "next-firebase-login": "^1.0.1",
         "react": "16.12.0",
